@@ -3,7 +3,7 @@
 - 🧰 During my high school years, I learned image processing using Python with FRC, and I learned robot coding using Java. Aside from that, I've created websites and developed small applications.
 - 🌱 I am currently working on the web to learn and improve my skills.
 - 📫 I graduated from Istanbul Üsküdar University, Department of Health Information Systems Technician.
-- 📞 If you'd like to get in touch with me ---> You can reach me on Discord as rcanyildirim
+- 📞 If you'd like to get in touch with me ---> You can reach me on Gmail as yldrmrecep61@gmail.com
 
 <div align="center">
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/rcanyildirim?label=Followers&style=social">
