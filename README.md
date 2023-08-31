@@ -1,8 +1,8 @@
 - 👋 Hello, I'm @rcanyildirim
-- 👀 I'm interested in Full-Stack web development and mobile applications.
+- 👀 I'm interested in Full-Stack web development.
 - 🧰 During my high school years, I learned image processing using Python with FRC, and I learned robot coding using Java. Aside from that, I've created websites and developed small applications.
-- 🌱 Currently, I'm working on web and mobile applications to learn and improve my skills.
-- 📫 I'm currently studying Computer Programming (Associate's Degree) at Medipol University in Istanbul, Turkey.
+- 🌱 I am currently working on the web to learn and improve my skills.
+- 📫 I graduated from Istanbul Üsküdar University, Department of Health Information Systems Technician.
 - 📞 If you'd like to get in touch with me ---> You can reach me on Discord as rcanyildirim
 
 <div align="center">
