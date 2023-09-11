@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @rcanyildirim
-- 👀 I'm interested in Full-Stack web development.
+- 👀 I'm interested in web development.
 - 🧰 During my high school years, I learned image processing using Python with FRC, and I learned robot coding using Java. Aside from that, I've created websites and developed small applications.
 - 🌱 I am currently working on the web to learn and improve my skills.
 - 📫 I graduated from Istanbul Üsküdar University, Department of Health Information Systems Technician.
